@@ -1,0 +1,9 @@
+
+s
+java:S1192"QDefine a constant instead of duplicating this literal "EDIT_BOOK_AUTHOR" 3 times.(Æ©Ôüüÿÿÿÿ8â“ô½Á1
+l
+java:S1192"PDefine a constant instead of duplicating this literal "EDIT_BOOK_TITLE" 3 times.(¦êÅ 8éÞô½Á1
+ƒ
+java:S1450"aRemove the "editAuthorEditText" field and declare it as a local variable in the relevant methods.(®˜Õ×ùÿÿÿÿ8€ãð½Á1
+‚
+java:S1450"`Remove the "editTitleEditText" field and declare it as a local variable in the relevant methods.(Á³‡‹ûÿÿÿÿ8€ãð½Á1

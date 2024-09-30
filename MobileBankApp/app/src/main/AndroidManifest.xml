@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.mobile.bankapp.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <provider
+            android:name="com.mobile.bankapp.database.DataProvider"
+            android:authorities="com.mobile.bankapp.dataprovider"
+            android:exported="false" />
+
+        <activity
+            android:name="com.mobile.bankapp.SplashScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mobile.bankapp.SettingAccountsActivity"
+            android:label="Add Accounts"
+            android:parentActivityName="com.mobile.bankapp.ShowingAccountsActivity" />
+        <activity
+            android:name="com.mobile.bankapp.ShowingAccountsActivity"
+            android:label="My Accounts"
+            android:parentActivityName="com.mobile.bankapp.MainActivity" />
+        <activity
+            android:name="com.mobile.bankapp.BudgetActivity"
+            android:label="Budget"
+            android:parentActivityName="com.mobile.bankapp.MainActivity" />
+        <activity
+            android:name="com.mobile.bankapp.ShowingExpensesActivity"
+            android:label="Expense"
+            android:parentActivityName="com.mobile.bankapp.MainActivity" />
+        <activity
+            android:name="com.mobile.bankapp.AddingExpenseActivity"
+            android:label="Add Expense"
+            android:parentActivityName="com.mobile.bankapp.MainActivity" />
+        <activity
+            android:name="com.mobile.bankapp.AddingIncomeActivity"
+            android:label="Add Income"
+            android:parentActivityName="com.mobile.bankapp.ShowingIncomeActivity" />
+        <activity
+            android:name="com.mobile.bankapp.ShowingIncomeActivity"
+            android:label="Income"
+            android:parentActivityName="com.mobile.bankapp.MainActivity" />
+        <activity
+            android:name="com.mobile.bankapp.ShowingExpensesDetailActivity"
+            android:label="Expense Detail"
+            android:parentActivityName="com.mobile.bankapp.ShowingExpensesActivity" />
+        <activity
+            android:name="com.mobile.bankapp.ShowingIncomeDetailActivity"
+            android:label="Income Detail"
+            android:parentActivityName="com.mobile.bankapp.ShowingIncomeActivity" />
+        <activity
+            android:name="com.mobile.bankapp.TransferActivity"
+            android:label="@string/transfer"
+            android:parentActivityName="com.mobile.bankapp.MainActivity" />
+        <activity
+            android:name="com.mobile.bankapp.IncomeCategoryActivity"
+            android:label="Income Category"
+            android:parentActivityName="com.mobile.bankapp.MainActivity" />
+        <activity
+            android:name="com.mobile.bankapp.ShowingCreditActivity"
+            android:label="Credit Cards"
+            android:parentActivityName="com.mobile.bankapp.MainActivity" />
+        <activity
+            android:name="com.mobile.bankapp.AddingCreditActivity"
+            android:label="Adding Cards"
+            android:parentActivityName="com.mobile.bankapp.ShowingCreditActivity" />
+        <activity
+            android:name="com.mobile.bankapp.ShowingCreditDetailActivity"
+            android:label="Credit Detail"
+            android:parentActivityName="com.mobile.bankapp.ShowingCreditActivity" />
+        <activity
+            android:name="com.mobile.bankapp.LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.mobile.bankapp.PreferencesActivity"
+            android:label="Settings"
+            android:parentActivityName="com.mobile.bankapp.MainActivity" />
+        <activity android:name="com.mobile.bankapp.RegisterActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+    </application>
+
+</manifest>

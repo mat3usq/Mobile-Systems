@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">TodoApp</string>
+    <string name="task_name_hint">Wprowadź nazwę zadania</string>
+    <string name="task_name_label">Nazwa</string>
+    <string name="task_details_label">Szczegóły</string>
+    <string name="task_done_label">Wykonane</string>
+    <string name="task_add_new">Nowe zadanie</string>
+    <string name="show_subtitle">Pokaż podtytuł</string>
+    <string name="hide_subtitle">Ukryj podtytuł</string>
+    <string name="subtitle_format">%1$d zadań</string>
+</resources>

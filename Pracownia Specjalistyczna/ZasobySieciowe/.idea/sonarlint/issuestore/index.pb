@@ -1,0 +1,19 @@
+
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
+i
+9app/src/main/java/com/example/pbmobilnezadanie9/Book.java,7/f/7f96878e6776be93171cb104da6c69daea26ea64
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+x
+Happ/src/main/java/com/example/pbmobilnezadanie9/BookDetailsActivity.java,9/d/9db422caf2883e4c3bb58df87d82f30602ae4518
+p
+@app/src/main/java/com/example/pbmobilnezadanie9/BookService.java,a/5/a5180688836d17e4175167eb0f8fd9d5fbb33cff
+u
+Eapp/src/main/java/com/example/pbmobilnezadanie9/RetrofitInstance.java,a/a/aa8db5aeca412146d65013b40b61a7ad082aaee1
+r
+Bapp/src/main/java/com/example/pbmobilnezadanie9/BookContainer.java,8/1/8183ed28a927ce46b550c07b0f3ddc3825026084
+q
+Aapp/src/main/java/com/example/pbmobilnezadanie9/MainActivity.java,4/9/49f3edc4a9b0acf58218153e301df47dd0f5d7a5
+X
+(gradle/wrapper/gradle-wrapper.properties,f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e

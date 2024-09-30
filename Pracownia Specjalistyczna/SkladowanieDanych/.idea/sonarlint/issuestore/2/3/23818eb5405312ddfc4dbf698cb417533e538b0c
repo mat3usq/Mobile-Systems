@@ -1,0 +1,25 @@
+
+s
+java:S1192E"QDefine a constant instead of duplicating this literal "EDIT_BOOK_AUTHOR" 3 times.(ÀîÄüÿÿÿÿ8Ùù¶¿Á1
+r
+java:S1192E"PDefine a constant instead of duplicating this literal "EDIT_BOOK_TITLE" 3 times.(ÀîÄüÿÿÿÿ8Úù¶¿Á1
+`
+java:S1874<">Remove this use of "startActivityForResult"; it is deprecated.(öäúÿÿÿÿÿ8¥ú¶¿Á1
+l
+java:S1874A"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÉÎÍïıÿÿÿÿ8šú¶¿Á1
+„
+java:S3252H"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(½ÑÕ²8ú¶¿Á1
+‰
+java:S3252P"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ8ú¶¿Á1
+‰
+java:S3252U"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ8ú¶¿Á1
+…
+java:S3252„"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(½ÑÕ²8¡¿¤Ä1
+a
+java:S1874">Remove this use of "startActivityForResult"; it is deprecated.(Â—¶şÿÿÿÿ8Ñë£¤Ä1
+Ÿ
+java:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—Í¼—8§ú¶¿Á1
+Ÿ
+java:S1186¯"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßĞõ8§ú¶¿Á1
+H
+java:S1068'"+Remove this unused "binding" private field.(¶ÃÊ8¯ú¶¿Á1

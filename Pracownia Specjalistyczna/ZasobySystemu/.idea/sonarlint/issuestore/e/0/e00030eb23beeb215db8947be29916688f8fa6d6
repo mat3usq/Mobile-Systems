@@ -1,0 +1,8 @@
+
+h
+java:S1301 "KReplace this "switch" statement by "if" statements to increase readability.(í—’Ã8È‹ì—¿1
+h
+java:S1301B"KReplace this "switch" statement by "if" statements to increase readability.(÷ÊÍ“8É‹ì—¿1
+>	java:S131 ""Add a default case to this switch.(í—’Ã8í‹ì—¿1
+>	java:S131B""Add a default case to this switch.(÷ÊÍ“8ð‹ì—¿1
+G	java:S106X"+Replace this use of System.out by a logger.(ÆÒá–8Ó†¥˜¿1

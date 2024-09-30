@@ -1,0 +1,14 @@
+
+q
+java:S1192k"ODefine a constant instead of duplicating this literal "Geocoder Error" 3 times.(¸ŸÔÿÿÿÿÿ8‰ĞÙ¡¿1
+m
+java:S1301U"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8‰ĞÙ¡¿1
+~
+java:S1450%"\Remove the "buttonAddress" field and declare it as a local variable in the relevant methods.(óÖ¥Õøÿÿÿÿ8æëË¢Ä1
+
+java:S1450#"]Remove the "buttonLocation" field and declare it as a local variable in the relevant methods.(ÌÂÉœûÿÿÿÿ8¨ĞÙ¡¿1
+l
+java:S1874S"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ8±ĞÙ¡¿1
+C	java:S131U""Add a default case to this switch.(×ö³–úÿÿÿÿ8³ĞÙ¡¿1
+T
+java:S1874w"7Remove this use of "getFromLocation"; it is deprecated.(û¨Ü8¸ĞÙ¡¿1

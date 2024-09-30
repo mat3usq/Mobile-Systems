@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BankApp.iml" filepath="$PROJECT_DIR$/.idea/modules/BankApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BankApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BankApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BankApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BankApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BankApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BankApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BankApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BankApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Desktop.BankApp.iml" filepath="$PROJECT_DIR$/.idea/modules/Desktop.BankApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Desktop.BankApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Desktop.BankApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Desktop.BankApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Desktop.BankApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Desktop.BankApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Desktop.BankApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Desktop.BankApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Desktop.BankApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MobileBankApp.iml" filepath="$PROJECT_DIR$/.idea/modules/MobileBankApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MobileBankApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MobileBankApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Users.mateusz.Desktop.BankApp.iml" filepath="$PROJECT_DIR$/.idea/modules/Users.mateusz.Desktop.BankApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app~1.androidTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app~1.androidTest~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app~1.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app~1.main~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app~1.unitTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Users.mateusz.Desktop.BankApp.app~1.unitTest~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Users.mateusz.Desktop.BankApp~1.iml" filepath="$PROJECT_DIR$/.idea/modules/Users.mateusz.Desktop.BankApp~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mateusz.Desktop.BankApp.iml" filepath="$PROJECT_DIR$/.idea/modules/mateusz.Desktop.BankApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mateusz.Desktop.BankApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mateusz.Desktop.BankApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mateusz.Desktop.BankApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mateusz.Desktop.BankApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mateusz.Desktop.BankApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mateusz.Desktop.BankApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mateusz.Desktop.BankApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mateusz.Desktop.BankApp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

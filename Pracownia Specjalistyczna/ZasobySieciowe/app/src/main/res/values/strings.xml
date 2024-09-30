@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search Books</string>
+    <string name="book_cover">Okładka Książki</string>
+    <string name="clear_search">Resetuj Wyszukiwanie</string>
+    <string name="search">Wyszukaj</string>
+    <string name="book_download_fail">Błąd pobierania książki</string>
+</resources>
